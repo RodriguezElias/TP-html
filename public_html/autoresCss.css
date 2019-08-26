@@ -1,0 +1,126 @@
+html{
+    width: 100%;
+    background-image: url("imagenes/background.jpg")
+}
+*{
+    font-family: calibri;
+    margin: auto;
+    color: black;
+}
+header {
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 1.5%;
+    text-shadow:
+   -1px 1px 0 #fff;
+    
+}
+a img{
+    width: 70px;
+    margin-left: 1%;
+    float: left;
+    
+        
+}
+p{
+    font-size: 17px;
+}
+.imagenes{
+    width: 20%;
+    border: 3px solid grey;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    width: 100%;
+    margin-top: 5%;
+    text-shadow:
+   -1px 1px 0 #fff;
+}
+#cortazar article{
+    width: 70%;
+    float: left;
+    text-align: justify;
+    margin-left: 2%;
+    margin-top: 5%;
+    
+}
+#cortazar img {
+    float: right;
+    margin-right: 2%;
+    width: 20%;
+    margin-top: 5%;
+    
+}
+
+
+#Fontanarrosa article{
+    width: 70%;
+    float: right;
+    text-align: justify;
+    margin-right: 2%;
+    margin-top: 5%;
+}
+#Fontanarrosa img{
+    float: left;
+    margin-left: 2%;
+    width: 20%;
+    margin-top: 5%;
+}
+#Walsh article{
+    width: 70%;
+    float: left;
+    text-align: justify;
+    margin-left: 2%;
+    margin-top: 5%;
+}
+#Walsh img{
+    float: right;
+    margin-right: 2%;
+    width: 20%;
+    margin-top: 5%;
+}
+#Borges article{
+    width: 70%;
+    float: right;
+    text-align: justify;
+    margin-right: 2%;
+    margin-top: 5%;
+}
+#Borges img{
+    float: left;
+    margin-left: 2%;
+    width: 20%;
+    margin-top: 5%;
+}
+.clear{
+    clear: both;
+}
+#Ww article{
+    width: 70%;
+    float: left;
+    text-align: justify;
+    margin-left: 2%;
+    margin-top: 5%;
+}
+#Ww img{
+     float: right;
+    margin-right: 2%;
+    width: 20%;
+    margin-top: 5%;
+}
+#help{
+  border: 4px solid white;
+   
+}
+footer{
+    background-color: black;
+    color: grey;
+    width: 100%;
+    text-align: center;
+    font-size: 10px;
+    bottom: 0px;
+    height: 20px;
+}

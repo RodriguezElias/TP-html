@@ -1,0 +1,118 @@
+html{
+    background-image: url(imagenes/background.jpg);
+    width: 100%;
+}
+
+#contacto {
+    border: 1px solid #CED5D7;
+    text-align: center;
+    border-radius: 6px;
+    padding: 45px 45px 20px;
+    margin-top: 50px;
+    
+    box-shadow: 0px 5px 10px #B5C1C5, 0 0 0 10px #EEF5F7 inset;
+    width: 500px;
+    height: 400px;
+   
+    background-color: #E2ECEE;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #798E94;
+}
+#contacto label{
+    
+    font-weight: bold;
+}
+#contacto div{
+    margin-bottom: 8px;
+}
+.inputContacto{
+    padding: 7px 6px;
+    width: 200px;
+    border: 1px solid #CED5D7;
+    resize: none;
+    box-shadow: 0 0 0 3px #EEF5F7;
+    margin: 5px 0;
+}
+#contacto .inputContacto[type='text'], #contacto textarea{
+    padding: 7px 6px;
+    width: 300px;
+    border: 1px solid #CED5D7;
+    resize: none;
+    box-shadow: 0 0 0 3px #EEF5F7;
+    margin: 5px 0;
+}
+#contacto input[type='text']:focus, #contacto textarea:focus{
+    outline: none;
+    box-shadow: 0 0 0 3px #DDE9EC;
+}
+*{
+    font-family: calibri;
+    margin: auto;
+}
+.textoarriba{
+    width: 33%;
+    float: left;
+}
+.formularioarriba{
+    float: right;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+#logo {
+    width: 70px;
+   margin-left: 8%;
+    margin-top: 5%;
+    float:left;
+}
+button img{
+    width:8px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: black; 
+    text-shadow: -1px 2px 0 #fff;
+}
+
+
+
+
+
+#login{
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    font-size: 15px;
+   
+}
+
+
+.clear{
+    clear: both;
+}
+
+div a{
+    width: 20%;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    
+   
+}
+footer{
+    background-color: black;
+    color: grey;
+    width: 100%;
+    text-align: center;
+    font-size: 10px;
+    float: left;
+    position: fixed;
+    bottom: 0px;
+    height: 20px;
+    
+}
+
+
+
